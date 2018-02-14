@@ -31,5 +31,7 @@ Once you are setup, go to Build Settings under ```File->Build Settings``` and ma
 
 ![Settings image](https://github.com/juniorxsound/Pulp-Fiction-AR/blob/master/Resources/settings.png)
 
+Once you have done all of that, you should be able to build an iOS application which will open up in XCode, and run it on your device
+
 ## License
 
