@@ -29,5 +29,7 @@ To be able to build an ARKit application you need a:
 
 Once you are setup, go to Build Settings under ```File->Build Settings``` and make sure your platform is iOS, it is set to Latest Version of XCode and you are building in release mode
 
+![Settings image](https://github.com/juniorxsound/Pulp-Fiction-AR/blob/master/Resources/settings.png)
+
 ## License
 
