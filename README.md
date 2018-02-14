@@ -33,5 +33,8 @@ Once you are setup, go to Build Settings under ```File->Build Settings``` and ma
 
 Once you have done all of that, you should be able to build an iOS application which will open up in XCode, and run it on your device
 
+The app will launch with it's debug UI which enables to play/stop/restart the video and play and restart the depth animation
+![UI](https://github.com/juniorxsound/Pulp-Fiction-AR/blob/master/Resources/debug.png)
+
 ## License
 Copyright disclaimer: We do not own this video nor the image featured in the video. All rights belong to it's rightful owner/owner's. No copyright infringement intended. All the code written for the project is released under the MIT license which could be [found here](https://github.com/juniorxsound/Pulp-Fiction-AR/blob/master/LICENSE)
